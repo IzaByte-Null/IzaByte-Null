@@ -6,55 +6,34 @@
   <img src="https://capsule-render.vercel.app/render?type=glitch&color=000000&height=120&section=header&text=IzaByte-Null&fontSize=70&animation=fadeIn&fontColor=7000ff" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</p>
-
 ## $ /bin/bash --identity
 > **"Dismantling hardware to decrypt the logic of the ghost in the machine."**
 
-Computer Science student specializing in the flow of information. I bridge the gap between raw electrical signals and high-level data architecture. Currently building ETL pipelines while researching hardware-level vulnerabilities.
+Computer Science student specializing in the flow of information. Currently building **ETL pipelines** while researching **hardware-level vulnerabilities**.
 
 ---
 
 ## $ cat /etc/lab/inventory
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>:: DATA_STACK</h4>
-      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=magenta" />
-      <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/ETL_Logic-000000?style=for-the-badge&logo=apache-airflow&logoColor=red" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>:: HARDWARE_LAB</h4>
-      <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00979D" />
-      <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" /><br>
-      <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Low_Level-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
-    </td>
-  </tr>
-</table>
+
+| 💾 DATA_ENGINE | 🔌 HARDWARE_LAB |
+| :--- | :--- |
+| <a href="https://python.org"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a> | <a href="https://arduino.cc"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Arduino/Pi" height="45" /></a> |
+| <a href="https://postgresql.org"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" /></a> | <a href="https://cppreference.com"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="45" /></a> |
+| <a href="https://gnu.org/bash"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="45" /></a> | <a href="https://git-scm.com"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a> |
 
 ---
 
-## $ tail -f /var/log/active_projects
-* **OFF-GRID_MONITOR:** Real-time solar telemetry interface. Extracting data from charge controllers using C++ and Python.
-* **IPAD_BYPASS_RSCH:** Investigating bootroom vulnerabilities and hardware-level security bypass.
-* **DATA_ARCH_ZERO:** Sequential ETL implementation focusing on data integrity and pipeline automation.
-
+## $ sys_monitor --telemetry (WakaTime)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=IzaByte-Null&theme=tokyonight&layout=compact&hide_border=true&langs_count=8)
 ---
 
-## $ sys_monitor --performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzaByte-Null&show_icons=true&theme=tokyonight&hide_border=true&title_color=7000ff&icon_color=7000ff&text_color=ffffff&bg_color=00000000" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaByte-Null&layout=compact&theme=tokyonight&hide_border=true&title_color=7000ff&text_color=ffffff&bg_color=00000000" height="160" />
-</p>
+## $ tail -f /projects
+* **OFF-GRID_MONITOR:** Solar telemetry via C++ & Python.
+* **IPAD_BYPASS_RSCH:** Hardware-level security research.
 
 ### :: ACTIVITY_STREAM
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IzaByte-Null/IzaByte-Null/output/github-contribution-grid-snake.svg" alt="Activity Stream" />
+  <img src="https://raw.githubusercontent.com/IzaByte-Null/IzaByte-Null/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <p align="center">
@@ -62,7 +41,5 @@ Computer Science student specializing in the flow of information. I bridge the g
 </p>
 
 <p align="right">
-  <code>CONNECTION_STATUS: STABLE</code>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=IzaByte-Null&color=7000ff&style=flat-square&label=ACCESS_COUNT" />
 </p>
