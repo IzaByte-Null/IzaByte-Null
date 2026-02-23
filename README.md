@@ -1,56 +1,52 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=7B0000&height=200&section=header&text=IzaByte-Null&fontSize=80&animation=fadeIn&fontColor=4B0082" />
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=4B0082&height=120&section=header&text=IzaByte-Null&fontSize=70&animation=fadeIn&fontColor=32CD32" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJueXp4Y2Z6Znh6Znh6Znh6Znh6Znh6Znh6Znh6Znh6Znh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/10K9mH3U392I7e/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh6am95YmZ6Znh6Znh6Znh6Znh6Znh6Znh6Znh6Znh6Znh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mSww9Vn9m1r2w/giphy.gif" width="400">
 </p>
 
-## 🥀 
-
-Estudante de Ciência da Computação🐧. Focada em transitar da **Engenharia de Dados** para a **Cibersegurança**, utilizando o hardware como ponte através de sistemas de monitoramento e eletrônica.
+## 📂 PILOT_PROFILE // INTERFACE_01
+**[KERNEL]**: `POP!_OS // LINUX_X64`  
+**[SYNC_RATIO]**: `100% // STABLE`
 
 ---
 
-### 🛠️ Lab Environment
-**Data Systems & Automation**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL-Pipeline-000000?style=for-the-badge&logo=apache-airflow&logoColor=7B0000" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-**Cybersecurity & Hardware**
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00979D" />
-  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-</p>
+### 🖥️ NEURAL_NETWORK_STOCKS (Data & Logic)
+| MODULE | INTERFACE_PATH | LOAD_RATIO |
+| :--- | :--- | :--- |
+| **DATA_ENG** | Python // SQL // ETL | `[██████████░░] 85%` |
+| **CYBER_SEC** | Networking // Bypass | `[██████░░░░░░] 50%` |
+| **LOW_LEVEL** | C++ // Arduino // ASM | `[████░░░░░░░░] 35%` |
+| **SYSTEMS** | Bash // Pop!_OS // Git | `[████████░░░░] 70%` |
 
 ---
 
-### 🧪 Ongoing Experiments
-- **🔋 Off-Grid Monitoring:** Interface de monitoramento para sistemas solares via Arduino/C++.
-- **🔓 Legacy Security:** Pesquisa em bypass e vulnerabilidades de hardware em iPads antigos.
-- **🏗️ Data Architect:** Implementação de fluxos ETL para processamento de sinais eletrônicos.
+### 🧪 ACTIVE_PROJECTS (Hardware Lab)
+- **[EVA_UNIT_01]** :: `OFF_GRID_SOLAR` -> Monitoring interface for solar arrays.
+- **[EVA_UNIT_02]** :: `HARDWARE_SECURITY` -> Apple legacy bypass research.
+- **[EVA_UNIT_00]** :: `DATA_ARCHITECT` -> Real-time signal processing pipelines.
 
 ---
 
-### 📊 System Metrics
+### 📊 TELEMETRY_DATA
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzaByte-Null&show_icons=true&theme=gotham&hide_border=true&title_color=7B0000&icon_color=4B0082&text_color=ffffff" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaByte-Null&layout=compact&theme=gotham&hide_border=true&title_color=7B0000&text_color=ffffff" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IzaByte-Null&show_icons=true&theme=tokyonight&hide_border=true&title_color=32CD32&icon_color=8A2BE2&text_color=ffffff" width="400" />
 </p>
 
-### 🕸️ Activity Flow
+### 🕸️ ACTIVITY_RADAR (Snake)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IzaByte-Null/IzaByte-Null/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/IzaByte-Null/IzaByte-Null/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
 ---
 
-### 📞 Contact Sync
+### 📡 COMMS_LINK
 <p align="left">
-  <a href="https://www
+  <a href="https://www.linkedin.com/in/isabella-soares-de-morais-243a933b1/"><img src="https://img.shields.io/badge/--LINKEDIN--000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" /></a>
+  <a href="mailto:isabellamorais080@gmail.com"><img src="https://img.shields.io/badge/--MAIL--000000?style=for-the-badge&logo=gmail&logoColor=32CD32" /></a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=IzaByte-Null&color=4B0082&style=flat-square&label=VULNERABILITY_CHECK" />
+</p>
