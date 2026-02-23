@@ -1,4 +1,3 @@
-# IzaByte-Null | Connection Established
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=glitch&color=000000&height=200&section=header&text=Izabyte-Null&fontSize=80&animation=fadeIn&fontColor=FF0000" />
 </p>
