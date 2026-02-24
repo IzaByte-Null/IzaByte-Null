@@ -2,8 +2,8 @@ name: WakaTime Progress
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda automaticamente à meia-noite
-  workflow_dispatch: # Permite que você rode manualmente para testar
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
 
 jobs:
   update-readme:
@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets. WAKATIME_API_KEY }}
