@@ -1,101 +1,72 @@
-<!-- ============================================ -->
-<!-- HERO -->
-<!-- ============================================ -->
- 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-       alt="Glitch header IzaByte-Null">
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=7000FF&size=26&center=true&vCenter=true&width=800&height=60&lines=Isabella+Soares+de+Morais;Computer+Science+Undergraduate;Data+Engineering+%7C+Cybersecurity;Low-Level+Systems+%7C+Infrastructure" alt="Typing SVG">
+
+*"Dismantling hardware to decrypt the logic of the ghost in the machine."*
+
+<img src="https://komarev.com/ghpvc/?username=IzaByte-Null&color=7000ff&style=flat-square&label=SYS.VIEWS" alt="Profile Views">
+
+</div>
+
+<br>
+
+<img align="right" src="https://i.pinimg.com/originals/50/46/40/50464097a30aa010147b82d0c2166c67.gif" width="180" alt="Tech Aesthetic GIF">
+
+### `// ABOUT_ME`
+
+**`~> whoami`**  
+Computer Science student. Building from hardware to cloud — Linux systems, Python automation, and infrastructure security. Currently: AWS re/Start.
+
+**`~> focus_areas`**  
+- Infrastructure & Systems Engineering
+- Security Operations (SecOps)
+- Hardware-level analysis & Automation
+
+<br clear="both">
 
 ---
 
-# IzaByte-Null
+### `// TECH_STACK`
 
-> **"Dismantling hardware to decrypt the logic of the ghost in the machine."**
+**`[+] Systems & Infrastructure`**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-Computer Science student building strong foundations in  
-**Data Systems, Low-Level Computing, and Security Research.**
+**`[+] Hardware & Security`**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 
-Currently deepening mathematical studies (Calculus & Algebra)  
-to support embedded systems, information flow, and structured data engineering.
+**`[+] Development & Data`**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
+<br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-  <img src=""
-       alt="Section divider animation"
-       width="100%">
-</p>
+### `// CORE_PROJECTS`
 
----
+*   **`OFF-GRID_MONITOR`** — Solar-powered telemetry system (C++ / Python).
+*   **`IPAD_BYPASS_RSCH`** — Hardware-level security and attack surface mapping.
+*   **`INFRA_AUTOMATION`** — Pipeline scripts for environment provisioning.
 
-## Technical Direction
+<br>
 
-### Data & Systems
-- Python
-- PostgreSQL
-- Bash
-- ETL fundamentals
-- Data modeling concepts
+### `// TELEMETRY`
 
-### Embedded & Hardware
-- Arduino & Raspberry Pi
-- C++
-- Basic Assembly experimentation
-- Low-level debugging
-- Self-built off-grid telemetry system
+<div align="center">
 
-### Mathematical Foundation
-- Calculus (in progress)
-- Linear Algebra (in progress)
-- Logical reasoning & abstraction training
+<img src="https://github-readme-stats.vercel.app/api?username=IzaByte-Null&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github&ring_color=7000FF" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaByte-Null&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" width="48%">
 
----
+<br><br>
 
-## Independent Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IzaByte-Null/IzaByte-Null/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IzaByte-Null/IzaByte-Null/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-### OFF-GRID_MONITOR
-Self-built solar-powered telemetry system  
-→ Embedded logic in C++  
-→ Data logging with Python  
-→ Structured monitoring pipeline  
-
-Focus: autonomy, resilience, and energy independence.
-
----
-
-### IPAD_BYPASS_RSCH
-Hardware-level security exploration on legacy device.  
-Studying device architecture, restrictions, and attack surfaces.
-
-Focus: reverse reasoning and system behavior analysis.
-
----
-
-### Assembly Experiments
-Using low-level instructions to control hardware behavior  
-and optimize specific Arduino routines.
-
-Focus: understanding what happens *below* abstraction layers.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IzaByte-Null/IzaByte-Null/output/github-contribution-grid-snake.svg"
-       alt="GitHub contribution snake"
-       width="100%">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-       alt="Pacman divider"
-       width="100%">
-</p>
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=IzaByte-Null&color=7000ff&style=flat-square&label=PROFILE_VIEWS"
-       alt="Profile view counter">
-</p>
+</div>
