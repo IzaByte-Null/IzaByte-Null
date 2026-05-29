@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=7000FF&size=26&center=true&vCenter=true&width=800&height=60&lines=Isabella+Soares+de+Morais;Computer+Science+Undergraduate;Data+Engineering+%7C+Cybersecurity;Low-Level+Systems+%7C+Infrastructure" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=7000FF&size=25&center=true&vCenter=true&width=800&height=60&lines=Isabella+Soares+de+Morais;Computer+Science+Undergraduate;DevSecOps+%7C+Cybersecurity;Hardware+%7C+Cloud+Infrastructure" alt="Typing SVG">
 
 *"Dismantling hardware to decrypt the logic of the ghost in the machine."*
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=IzaByte-Null&color=7000ff&style=flat-square&label=SYS.VIEWS" alt="Profile Views">
 
@@ -10,21 +12,26 @@
 
 <br>
 
-<img align="right" src="https://i.pinimg.com/originals/50/46/40/50464097a30aa010147b82d0c2166c67.gif" width="180" alt="Tech Aesthetic GIF">
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h3><code>// ABOUT_ME</code></h3>
+      <br>
+      <b><code>~> whoami</code></b><br>
+      Computer Science student. Building from hardware to cloud — Linux systems, Python automation, and infrastructure security. Currently: AWS re/Start.
+      <br><br>
+      <b><code>~> focus_areas</code></b><br>
+      > Infrastructure & Systems Engineering<br>
+      > Security Operations (SecOps)<br>
+      > Hardware-level analysis & Automation
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/50/46/40/50464097a30aa010147b82d0c2166c67.gif" width="160" alt="Tech Aesthetic GIF">
+    </td>
+  </tr>
+</table>
 
-### `// ABOUT_ME`
-
-**`~> whoami`**  
-Computer Science student. Building from hardware to cloud — Linux systems, Python automation, and infrastructure security. Currently: AWS re/Start.
-
-**`~> focus_areas`**  
-- Infrastructure & Systems Engineering
-- Security Operations (SecOps)
-- Hardware-level analysis & Automation
-
-<br clear="both">
-
----
+<br>
 
 ### `// TECH_STACK`
 
@@ -40,7 +47,7 @@ Computer Science student. Building from hardware to cloud — Linux systems, Pyt
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 
-**`[+] Development & Data`**  
+**`[+] Development & Automation`**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -49,9 +56,14 @@ Computer Science student. Building from hardware to cloud — Linux systems, Pyt
 
 ### `// CORE_PROJECTS`
 
-*   **`OFF-GRID_MONITOR`** — Solar-powered telemetry system (C++ / Python).
-*   **`IPAD_BYPASS_RSCH`** — Hardware-level security and attack surface mapping.
-*   **`INFRA_AUTOMATION`** — Pipeline scripts for environment provisioning.
+> **`OFF-GRID_MONITOR`**  
+> Solar-powered telemetry system (C++ / Python).
+
+> **`IPAD_BYPASS_RSCH`**  
+> Hardware-level security and attack surface mapping.
+
+> **`INFRA_AUTOMATION`**  
+> Pipeline scripts for environment provisioning.
 
 <br>
 
